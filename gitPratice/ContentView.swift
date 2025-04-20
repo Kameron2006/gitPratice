@@ -19,6 +19,7 @@ struct ContentView: View {
                         .foregroundColor(.black)
                         .colorScheme(.light)
                     Text("Change 1")
+                    Text("Change 2")
 
             
         }
