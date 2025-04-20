@@ -18,6 +18,7 @@ struct ContentView: View {
                         .font(.system(size: 30, weight: .bold, design: .default))
                         .foregroundColor(.black)
                         .colorScheme(.light)
+                    Text("Change 1")
 
             
         }
